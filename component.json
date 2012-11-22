@@ -14,8 +14,7 @@
         "index.js"
     ],
     "styles":[
-        "docs/assets/css/bootstrap.css",
-        "docs/assets/css/bootstrap-responsive.css"
+        "docs/assets/css/bootstrap.css"
     ],
     "files":[
         "docs/assets/img/glyphicons-halflings-white.png",
